@@ -6,7 +6,7 @@
 
 # Nome do projeto
 
-## Nome do grupo
+## Nome do grupo: Afonsinho
 
 ## :student: Integrantes: 
 - <a href="https://www.linkedin.com/">Nome do integrante 1</a>
