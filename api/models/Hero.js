@@ -1,7 +1,7 @@
 module.exports = {
   attributes: {
     name: {
-      type: "",
+      type: "string",
       required: true,
     },
     power: {
@@ -9,7 +9,7 @@ module.exports = {
       required: true,
     },
     age: {
-      type: "integer",
+      type: "number",
       required: true,
     },
     secretIdentity: {
